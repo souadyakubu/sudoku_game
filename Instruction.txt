@@ -1,0 +1,9 @@
+
+You can use only numbers from 1 to 9.
+Each 3 by 3 block can only contain numbers from 1 to 9.
+Each vertical column can only contain numbers from 1 to 9.
+Each horizontal row can only contain numbers from 1 to 9.
+Each number in the 3 by 3 block, vertical column or horizontal row can be used only once.
+The game is over when the whole Sudoku grid is correctly filled with numbers.
+However, you have a time of 10 minutes to finish each section.
+If you are have not completed the game by the given time then the game is automatically over.
